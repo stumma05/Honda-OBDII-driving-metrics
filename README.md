@@ -1,4 +1,4 @@
-# Honda Earth Dreams CAN Bus Monitor
+# Honda CAN Bus Monitor
 This project uses an ESP32 microcontroller to interface with a Honda vehicle's CAN bus, specifically reverse-engineering powertrain data for Earth Dreams engines. It hosts a local web server to display real-time driving metrics on a custom mobile-friendly dashboard.  
 # Features
 - Passive CAN Sniffing: Seamlessly reads broadcast frames for immediate engine speed (RPM) and vehicle speed (km/h).
